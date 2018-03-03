@@ -60,6 +60,3 @@ def Cn2An(chinese_digits):
     result = result + hnd_mln
     return result
 
-
-# test
-print(Cn2An(get_tit_num('123')))
